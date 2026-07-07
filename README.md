@@ -105,9 +105,3 @@ Overall, this project demonstrates strong practical knowledge of **Python for Da
 statistical analysis, feature comparison, correlation analysis, and data visualization. The insights generated from this analysis help understand
 global higher education performance, identify leading universities and countries, and support data-driven academic benchmarking and decision-making.
 
-## Conclusion
-
-This project demonstrates the complete data analysis workflow, from preprocessing and exploration to visualization and insight generation. 
-By applying Python libraries and statistical techniques, the analysis provides a deeper understanding of global university rankings and the 
-factors affecting institutional performance. The project showcases practical data analysis skills and highlights the value of Python in 
-extracting actionable insights from real-world datasets.
